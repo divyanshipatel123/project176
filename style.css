@@ -1,0 +1,60 @@
+body {
+    background-image: url('./bg.jpg');
+    font-family: 'Pangolin', cursive;
+}
+
+.clickable{
+    background: rgba(155, 219, 223, 0.689);
+    padding: 1em;
+    padding-bottom: 0.5em;
+    padding-top: 0.75em;
+    border: 2px solid rgb(93, 16, 219);
+    border-radius: 0.5em;
+    margin: 0.22em;
+    font-size: 30px;
+    font-weight: 600;
+   
+}
+
+
+#heading {
+    font-size: 4em;
+    margin-top: 0.25em;
+}
+
+#subHeading {
+    font-size: 2em;
+    line-height: 2em;
+    font-weight: 600;
+}
+#Remaininglifetext{
+    font-size: 2em;
+    font-weight: 600;
+    
+}
+#life {
+    font-size: 2em;
+    font-weight: 600;
+    
+}
+#category{
+    font-size: 2em;
+    font-weight: 600;
+    
+}
+#hint{
+    font-size: 2em;
+    font-weight: 600;
+    
+}
+#blanks{
+    font-size: 2em;
+    font-weight: 600;
+}
+#result{
+    font-size: 2em;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(77, 7, 99);
+}
+
